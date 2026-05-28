@@ -1,0 +1,6 @@
+{
+  "name": "Arielabs18 Business Portal",
+  "description": "Premium business framework portal and administrative automation system for Arielabs 18.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
